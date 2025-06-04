@@ -1,4 +1,6 @@
-# ansible/playbook.yml
+# playbook.yml, inspiration: https://github.com/jewzaam/minecraft-ansible, https://blog.kywa.io/mineops-part-2/
+
+
 ---
 - hosts: minecraft
   become: yes
