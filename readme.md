@@ -68,7 +68,7 @@ sudo apt install ansible
 
 2. Clone the repository:
 
-git clone <repository_url>
+git clone https://github.com/WarnerGreenbaum/final_CS312.git
 
 
 ## Deployment
